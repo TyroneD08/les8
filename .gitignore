@@ -1,4 +1,15 @@
 tijdelijkBestand.meta
 allemaal prive adressen
-allemaal telefoonnummers
+priveBestand
 *.psd
+PriveInformatie
+priveBestand.pb
+
+
+
+
+
+
+git add 
+git commit -m "comment"
+git push
